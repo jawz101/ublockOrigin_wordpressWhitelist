@@ -17,3 +17,6 @@ I may be onto something
 [These plugins slow down your WordPress](https://servebolt.com/articles/these-plugins-slow-down-your-wordpress/)
 
 [Use This Test to Find Out Which Plugins are Slowing Down Your WordPress Site](https://premium.wpmudev.org/blog/use-this-test-to-find-out-which-plugins-are-slowing-down-your-wordpress-site/)
+
+Steps to fix breakages:
+https://github.com/jawz101/ublockOrigin_wordpressWhitelist/wiki

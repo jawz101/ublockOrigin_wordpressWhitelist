@@ -9,6 +9,7 @@ You will see very few allowed but several analytic plugin scripts blocked.  I do
 
 
 I may be onto something
+
 [65 WordPress Plugins That Slow Down Your Website (And How To Use GTmetrix To Find Your Slowest Loading Plugins)](https://onlinemediamasters.com/slow-wordpress-plugins/)
 
 [Plugins and Fast WordPress Sites – It’s not the Number of Plugins, It’s the Quality](https://wpengine.com/blog/plugins-and-fast-wordpress-sites-its-not-the-number-of-plugins-its-the-quality/)

@@ -6,3 +6,10 @@ According to [some stats, Wordpress is used on approximately 35% of websites on 
 My test:
 copy the contents of this file into your MyFilters section (or import it).  Now, open the uBlock log screen and navigate to androidpolice.com (or any site heavy with wordpress plugins.
 You will see very few allowed but several analytic plugin scripts blocked.  I don't know whether or not there is a performance penalty for these sorts of rules but it's just me seeing how much I will need to touch it.  Over the course of a couple of years I have had to add 24 exceptions so far but a cursory google search tells me there are thousands of plugins it is blocking.
+
+
+I may be onto something
+[65 WordPress Plugins That Slow Down Your Website (And How To Use GTmetrix To Find Your Slowest Loading Plugins)](https://onlinemediamasters.com/slow-wordpress-plugins/)
+[Plugins and Fast WordPress Sites – It’s not the Number of Plugins, It’s the Quality](https://wpengine.com/blog/plugins-and-fast-wordpress-sites-its-not-the-number-of-plugins-its-the-quality/)
+[These plugins slow down your WordPress](https://servebolt.com/articles/these-plugins-slow-down-your-wordpress/)
+[Use This Test to Find Out Which Plugins are Slowing Down Your WordPress Site](https://premium.wpmudev.org/blog/use-this-test-to-find-out-which-plugins-are-slowing-down-your-wordpress-site/)

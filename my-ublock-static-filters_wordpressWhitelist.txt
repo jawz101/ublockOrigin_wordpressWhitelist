@@ -12,6 +12,7 @@
 @@*/wp-content/plugins/js_composer/*$script
 @@*/wp-content/plugins/kboard/template/js/*$script
 @@*/wp-content/plugins/lazy-load/js/*$script
+@@*/wp-content/plugins/mapplic/js/*$script
 @@*/wp-content/plugins/revslider/public/assets/js/*$script
 @@*/wp-content/plugins/rocket-lazy-load/assets/js/*$script
 @@*/wp-content/plugins/w3-total-cache/pub/js/*$script

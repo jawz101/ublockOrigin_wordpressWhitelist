@@ -4,8 +4,8 @@
 @@*/wp-content/plugins/bwp-minify/*$script
 @@*/wp-content/plugins/contact-form-7/includes/js/*$script
 @@*/wp-content/plugins/disqus-comment-system/*$script
-@@*/wp-content/plugins/disqus-comment-system/public/js/*$script
 @@*/wp-content/plugins/elementor/*$script
+@@*/wp-content/plugins/essential-grid/*$script
 @@*/wp-content/plugins/gravityforms/*$script
 @@*/wp-content/plugins/inventory/*$script
 @@*/wp-content/plugins/jetpack/_inc/build/lazy-images/js/*$script

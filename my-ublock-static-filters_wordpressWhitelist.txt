@@ -1,4 +1,4 @@
-wp-content/plugins/*$script
+*/wp-content/plugins/*$script
 @@*/wp-content/plugins/autoptimize/*$script
 @@*/wp-content/plugins/bbs-e-popup/js/*$script
 @@*/wp-content/plugins/bwp-minify/*$script

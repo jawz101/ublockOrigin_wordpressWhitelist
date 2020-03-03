@@ -1,4 +1,4 @@
-*/wp-content/plugins/*$script
+wp-content/plugins/*$script
 @@*/wp-content/plugins/autoptimize/*$script
 @@*/wp-content/plugins/bbs-e-popup/js/*$script
 @@*/wp-content/plugins/bwp-minify/*$script
@@ -8,6 +8,7 @@
 @@*/wp-content/plugins/essential-grid/*$script
 @@*/wp-content/plugins/gravityforms/*$script
 @@*/wp-content/plugins/inventory/*$script
+@@*/wp-content/plugins/fusion-core/js/*$script
 @@*/wp-content/plugins/jetpack/_inc/build/lazy-images/js/*$script
 @@*/wp-content/plugins/js_composer/*$script
 @@*/wp-content/plugins/kboard/template/js/*$script

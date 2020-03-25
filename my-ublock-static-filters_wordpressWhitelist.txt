@@ -16,6 +16,7 @@
 @@*/wp-content/plugins/mapplic/js/*$script
 @@*/wp-content/plugins/revslider/public/assets/js/*$script
 @@*/wp-content/plugins/rocket-lazy-load/assets/js/*$script
+@@*/wp-content/plugins/search-by-algolia-instant-relevant-results/js/*$script
 @@*/wp-content/plugins/w3-total-cache/pub/js/*$script
 @@*/wp-content/plugins/woocommerce/assets/js/*$script
 @@*/wp-content/plugins/wordpress-popular-posts/*$script

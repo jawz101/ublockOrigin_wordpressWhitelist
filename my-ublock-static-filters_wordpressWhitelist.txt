@@ -4,7 +4,7 @@
 @@*/wp-content/plugins/bbs-e-popup/js/*$script
 @@*/wp-content/plugins/bwp-minify/*$script
 @@*/wp-content/plugins/contact-form-7/includes/js/*$script
-@@*/wp-content/plugins/disqus-comment-system/*$script
+@@*/wp-content/plugins/disqus-comment-system/public/js/*$script
 @@*/wp-content/plugins/elementor/*$script
 @@*/wp-content/plugins/essential-grid/*$script
 @@*/wp-content/plugins/fusion-core/js/*$script
@@ -18,6 +18,7 @@
 @@*/wp-content/plugins/revslider/public/assets/js/*$script
 @@*/wp-content/plugins/rocket-lazy-load/assets/js/*$script
 @@*/wp-content/plugins/search-by-algolia-instant-relevant-results/js/*$script
+@@*/wp-content/plugins/thrive-visual-editor/editor/js/*$script
 @@*/wp-content/plugins/w3-total-cache/pub/js/*$script
 @@*/wp-content/plugins/woocommerce/assets/js/*$script
 @@*/wp-content/plugins/wordpress-popular-posts/*$script

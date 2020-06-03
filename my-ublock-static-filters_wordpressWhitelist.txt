@@ -13,6 +13,7 @@
 @@*/wp-content/plugins/jetpack/_inc/build/lazy-images/js/*$script
 @@*/wp-content/plugins/js_composer/*$script
 @@*/wp-content/plugins/kboard/template/js/*$script
+@@*/wp-content/plugins/layerSlider/assets/static/layerslider/js/*$script
 @@*/wp-content/plugins/lazy-load/js/*$script
 @@*/wp-content/plugins/mapplic/js/*$script
 @@*/wp-content/plugins/revslider/public/assets/js/*$script

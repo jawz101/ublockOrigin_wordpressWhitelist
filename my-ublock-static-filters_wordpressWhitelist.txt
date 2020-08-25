@@ -1,4 +1,5 @@
 */wp-content/plugins/*$script
+@@*/wp-content/plugins/a3-lazy-load/assets/js/*$script
 @@*/wp-content/plugins/ajax-search-pro/js/min/*$script
 @@*/wp-content/plugins/autoptimize/classes/external/js/*$script
 @@*/wp-content/plugins/bbs-e-popup/js/*$script
@@ -16,6 +17,8 @@
 @@*/wp-content/plugins/layerSlider/assets/static/layerslider/js/*$script
 @@*/wp-content/plugins/lazy-load/js/*$script
 @@*/wp-content/plugins/mapplic/js/*$script
+@@*/wp-content/plugins/mistape/assets/js/*$script
+@@*/wp-content/plugins/nextend-smart-slider3-pro/*$script
 @@*/wp-content/plugins/revslider/public/assets/js/*$script
 @@*/wp-content/plugins/rocket-lazy-load/assets/js/*$script
 @@*/wp-content/plugins/search-by-algolia-instant-relevant-results/js/*$script

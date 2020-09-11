@@ -24,6 +24,7 @@
 @@*/wp-content/plugins/search-by-algolia-instant-relevant-results/js/*$script
 @@*/wp-content/plugins/sg-cachepress/assets/js/*$script
 @@*/wp-content/plugins/slideshow-jquery-image-gallery/js/min/*$script
+@@*/wp-content/plugins/speed-booster-pack/public/js/*$script
 @@*/wp-content/plugins/thrive-visual-editor/editor/js/*$script
 @@*/wp-content/plugins/w3-total-cache/pub/js/*$script
 @@*/wp-content/plugins/woocommerce/assets/js/*$script
@@ -32,3 +33,4 @@
 @@*/wp-content/plugins/wp-rocket/assets/js/*$script
 @@*/wp-content/plugins/wp-scroll-depth/js/*$script
 @@*/wp-content/plugins/wpdatatables/assets/js/*$script
+@@*/wp-content/plugins/yith-woocommerce-ajax-search-premium/assets/js/*$script

@@ -12,6 +12,7 @@
 @@*/wp-content/plugins/fusion-core/js/*$script
 @@*/wp-content/plugins/gravityforms/js/*$script
 @@*/wp-content/plugins/jetpack/_inc/build/lazy-images/js/*$script
+@@*/wp-content/plugins/jquery-manager/assets/js/*$script
 @@*/wp-content/plugins/js_composer/assets/js/dist/*$script
 @@*/wp-content/plugins/kboard/template/js/*$script
 @@*/wp-content/plugins/layerSlider/assets/static/layerslider/js/*$script

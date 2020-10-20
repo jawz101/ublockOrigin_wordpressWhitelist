@@ -22,3 +22,8 @@ I may be onto something
 Steps to fix breakages:
 
 https://github.com/jawz101/ublockOrigin_wordpressWhitelist/wiki
+
+
+A source list of many of the WP plugins out there
+
+http://plugins.svn.wordpress.org/

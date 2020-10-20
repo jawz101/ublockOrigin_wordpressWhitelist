@@ -33,6 +33,7 @@
 @@*/wp-content/plugins/wd_shortcode/js/*$script
 @@*/wp-content/plugins/woocommerce/assets/js/*$script
 @@*/wp-content/plugins/wp-ajax-edit-comments/js/*$script
+@@*/wp-content/plugins/wp-mega-menu-pro/js/*$script
 @@*/wp-content/plugins/wp-polls/*$script
 @@*/wp-content/plugins/wp-rocket/assets/js/*$script
 @@*/wp-content/plugins/wp-scroll-depth/js/*$script

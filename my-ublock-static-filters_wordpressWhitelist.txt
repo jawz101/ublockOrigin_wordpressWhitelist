@@ -8,10 +8,13 @@
 @@*/wp-content/plugins/bwp-minify/min/*$script
 @@*/wp-content/plugins/contact-form-7/includes/js/*$script
 @@*/wp-content/plugins/disqus-comment-system/public/js/*$script
+@@*/wp-content/plugins/easy-accordion-free/public/assets/js/*$script
 @@*/wp-content/plugins/elementor/assets/*$script
 @@*/wp-content/plugins/essential-grid/public/assets/js/*$script
+@@*/wp-content/plugins/ewww-image-optimizer/includes/*$script
 @@*/wp-content/plugins/fusion-core/js/*$script
 @@*/wp-content/plugins/gravityforms/js/*$script
+@@*/wp-content/plugins/inventory/js/*$script
 @@*/wp-content/plugins/jetpack/_inc/build/lazy-images/js/*$script
 @@*/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/src/js/*$script
 @@*/wp-content/plugins/jquery-manager/assets/js/*$script

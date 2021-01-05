@@ -22,6 +22,7 @@
 @@*/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/src/js/*$script
 @@*/wp-content/plugins/jquery-manager/assets/js/*$script
 @@*/wp-content/plugins/js_composer/assets/js/dist/*$script
+@@*/wp-content/plugins/kadence-woo-extras/lib/gallery/js/*$script
 @@*/wp-content/plugins/kboard/template/js/*$script
 @@*/wp-content/plugins/layerSlider/assets/static/layerslider/js/*$script
 @@*/wp-content/plugins/lazy-load/js/*$script
@@ -35,16 +36,19 @@
 @@*/wp-content/plugins/sg-cachepress/assets/js/*$script
 @@*/wp-content/plugins/slideshow-jquery-image-gallery/js/min/*$script
 @@*/wp-content/plugins/speed-booster-pack/public/js/*$script
+@@*/wp-content/plugins/td-composer/legacy/Newspaper/js/*$script
 @@*/wp-content/plugins/thrive-visual-editor/editor/js/*$script
 @@*/wp-content/plugins/w3-total-cache/pub/js/*$script
 @@*/wp-content/plugins/wd_shortcode/js/*$script
 @@*/wp-content/plugins/woo-gutenberg-products-block/build/*$script
+@@*/wp-content/plugins/woocommerce-composite-products/assets/js/frontend/*$script
 @@*/wp-content/plugins/woocommerce/assets/js/*$script
 @@*/wp-content/plugins/wp-ajax-edit-comments/js/*$script
 @@*/wp-content/plugins/wp-mega-menu-pro/js/*$script
 @@*/wp-content/plugins/wp-polls/*$script
 @@*/wp-content/plugins/wp-rocket/assets/js/*$script
 @@*/wp-content/plugins/wp-scroll-depth/js/*$script
+@@*/wp-content/plugins/wp-smush-pro/app/assets/js/*$script
 @@*/wp-content/plugins/wp-smushit/app/assets/js/*$script
 @@*/wp-content/plugins/wpdatatables/assets/js/*$script
 @@*/wp-content/plugins/yith-woocommerce-ajax-search-premium/assets/js/*$script

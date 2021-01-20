@@ -23,6 +23,7 @@
 @@*/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/src/js/*$script
 @@*/wp-content/plugins/jquery-manager/assets/js/*$script
 @@*/wp-content/plugins/js_composer/assets/js/dist/*$script
+@@*/wp-content/plugins/js_composer/assets/lib/bower/flexslider/*$script
 @@*/wp-content/plugins/jupiter-donut/assets/js/*$script
 @@*/wp-content/plugins/kadence-slider/js/min/*$script
 @@*/wp-content/plugins/kadence-woo-extras/lib/gallery/js/*$script

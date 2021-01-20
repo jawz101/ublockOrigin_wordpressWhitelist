@@ -7,6 +7,7 @@
 @@*/wp-content/plugins/bbs-e-popup/js/*$script
 @@*/wp-content/plugins/bj-lazy-load/js/*$script
 @@*/wp-content/plugins/bwp-minify/min/*$script
+@@*/wp-content/plugins/cm-cdn-image-handler/public/js/*$script
 @@*/wp-content/plugins/contact-form-7/includes/js/*$script
 @@*/wp-content/plugins/di-fixed-ops/*$script
 @@*/wp-content/plugins/disqus-comment-system/public/js/*$script

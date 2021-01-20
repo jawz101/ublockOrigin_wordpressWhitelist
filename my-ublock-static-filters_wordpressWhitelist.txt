@@ -8,6 +8,7 @@
 @@*/wp-content/plugins/bj-lazy-load/js/*$script
 @@*/wp-content/plugins/bwp-minify/min/*$script
 @@*/wp-content/plugins/contact-form-7/includes/js/*$script
+@@*/wp-content/plugins/di-fixed-ops/*$script
 @@*/wp-content/plugins/disqus-comment-system/public/js/*$script
 @@*/wp-content/plugins/easy-accordion-free/public/assets/js/*$script
 @@*/wp-content/plugins/elementor/assets/js/*$script
@@ -22,6 +23,7 @@
 @@*/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/src/js/*$script
 @@*/wp-content/plugins/jquery-manager/assets/js/*$script
 @@*/wp-content/plugins/js_composer/assets/js/dist/*$script
+@@*/wp-content/plugins/jupiter-donut/assets/js/*$script
 @@*/wp-content/plugins/kadence-slider/js/min/*$script
 @@*/wp-content/plugins/kadence-woo-extras/lib/gallery/js/*$script
 @@*/wp-content/plugins/kboard/template/js/*$script

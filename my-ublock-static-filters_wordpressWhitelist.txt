@@ -3,6 +3,7 @@
 @@*/wp-content/plugins/ajax-search-pro/js/min/*$script
 @@*/wp-content/plugins/alidswoo/assets/js/front/*$script
 @@*/wp-content/plugins/autoptimize/classes/external/js/*$script
+@@*/wp-content/plugins/bb-plugin/js/*$script
 @@*/wp-content/plugins/bb-ultimate-addon/assets/js/global-scripts/*$script
 @@*/wp-content/plugins/bbs-e-popup/js/*$script
 @@*/wp-content/plugins/bj-lazy-load/js/*$script
@@ -56,6 +57,7 @@
 @@*/wp-content/plugins/wp-mega-menu-pro/js/*$script
 @@*/wp-content/plugins/wp-polls/*$script
 @@*/wp-content/plugins/wp-rocket/assets/js/*$script
+@@*/wp-content/plugins/wp-rocket/inc/front/js/*$script
 @@*/wp-content/plugins/wp-scroll-depth/js/*$script
 @@*/wp-content/plugins/wp-smush-pro/app/assets/js/*$script
 @@*/wp-content/plugins/wp-smushit/app/assets/js/*$script

@@ -16,6 +16,7 @@
 @@*/wp-content/plugins/easy-accordion-free/public/assets/js/*$script
 @@*/wp-content/plugins/elementor/assets/js/*$script
 @@*/wp-content/plugins/elementor/assets/lib/*$script
+@@*/wp-content/plugins/enable-jquery-migrate-helper/js/jquery/*$script
 @@*/wp-content/plugins/essential-grid/public/assets/js/*$script
 @@*/wp-content/plugins/ewww-image-optimizer/includes/*$script
 @@*/wp-content/plugins/fusion-core/js/*$script
@@ -32,8 +33,8 @@
 @@*/wp-content/plugins/kadence-woo-extras/lib/gallery/js/*$script
 @@*/wp-content/plugins/kboard/template/js/*$script
 @@*/wp-content/plugins/layerSlider/assets/static/layerslider/js/*$script
-@@*/wp-content/plugins/lazy-load/js/*$script
 @@*/wp-content/plugins/lazy-load-0.7/js/*$script
+@@*/wp-content/plugins/lazy-load/js/*$script
 @@*/wp-content/plugins/mapplic/js/*$script
 @@*/wp-content/plugins/mistape/assets/js/*$script
 @@*/wp-content/plugins/nextend-smart-slider3-pro/*$script

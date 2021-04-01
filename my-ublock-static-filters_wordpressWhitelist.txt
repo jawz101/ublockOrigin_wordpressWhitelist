@@ -13,11 +13,13 @@
 @@*/wp-content/plugins/dflip/assets/js/*$script
 @@*/wp-content/plugins/di-fixed-ops/*$script
 @@*/wp-content/plugins/disqus-comment-system/public/js/*$script
+@@*/wp-content/plugins/ditty-news-ticker/inc/static/js/*$script
 @@*/wp-content/plugins/easy-accordion-free/public/assets/js/*$script
 @@*/wp-content/plugins/elementor/assets/js/*$script
 @@*/wp-content/plugins/elementor/assets/lib/*$script
 @@*/wp-content/plugins/enable-jquery-migrate-helper/js/jquery/*$script
 @@*/wp-content/plugins/essential-grid/public/assets/js/*$script
+@@*/wp-content/plugins/events-calendar-pro/src/resources/js/*$script
 @@*/wp-content/plugins/ewww-image-optimizer/includes/*$script
 @@*/wp-content/plugins/fusion-core/js/*$script
 @@*/wp-content/plugins/gdpr-framework/assets/*$script
@@ -66,5 +68,6 @@
 @@*/wp-content/plugins/wp-scroll-depth/js/*$script
 @@*/wp-content/plugins/wp-smush-pro/app/assets/js/*$script
 @@*/wp-content/plugins/wp-smushit/app/assets/js/*$script
+@@*/wp-content/plugins/wp-youtube-lyte/lyte/*$script
 @@*/wp-content/plugins/wpdatatables/assets/js/*$script
 @@*/wp-content/plugins/yith-woocommerce-ajax-search-premium/assets/js/*$script

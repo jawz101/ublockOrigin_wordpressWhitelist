@@ -21,6 +21,7 @@
 @@*/wp-content/plugins/essential-grid/public/assets/js/*$script
 @@*/wp-content/plugins/events-calendar-pro/src/resources/js/*$script
 @@*/wp-content/plugins/ewww-image-optimizer/includes/*$script
+@@*/wp-content/plugins/fancybox-for-wordpress/fancybox/*$script
 @@*/wp-content/plugins/fusion-core/js/*$script
 @@*/wp-content/plugins/gdpr-framework/assets/*$script
 @@*/wp-content/plugins/gravityforms/js/*$script
@@ -30,6 +31,7 @@
 @@*/wp-content/plugins/jquery-manager/assets/js/*$script
 @@*/wp-content/plugins/js_composer/assets/js/dist/*$script
 @@*/wp-content/plugins/js_composer/assets/lib/bower/flexslider/*$script
+@@*/wp-content/plugins/js_composer/assets/lib/vc_waypoints/*$script
 @@*/wp-content/plugins/jupiter-donut/assets/js/*$script
 @@*/wp-content/plugins/kadence-slider/js/min/*$script
 @@*/wp-content/plugins/kadence-woo-extras/lib/gallery/js/*$script
@@ -51,6 +53,7 @@
 @@*/wp-content/plugins/td-cloud-library/assets/js/*$script
 @@*/wp-content/plugins/td-composer/legacy/Newspaper/js/*$script
 @@*/wp-content/plugins/thrive-visual-editor/editor/js/*$script
+@@*/wp-content/plugins/twist/assets/js/*$script
 @@*/wp-content/plugins/visual-product-configurator/public/js/*$script
 @@*/wp-content/plugins/visual-product-configurator/public/libs/oriontip/*$script
 @@*/wp-content/plugins/w3-total-cache/pub/js/*$script

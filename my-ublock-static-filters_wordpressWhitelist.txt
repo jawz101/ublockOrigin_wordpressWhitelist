@@ -37,6 +37,7 @@
 @@*/wp-content/plugins/kadence-slider/js/min/*$script
 @@*/wp-content/plugins/kadence-woo-extras/lib/gallery/js/*$script
 @@*/wp-content/plugins/kboard/template/js/*$script
+@@*/wp-content/plugins/kingcomposer/assets/frontend/js/*$script
 @@*/wp-content/plugins/layerSlider/assets/static/layerslider/js/*$script
 @@*/wp-content/plugins/lazy-load-0.7/js/*$script
 @@*/wp-content/plugins/lazy-load/js/*$script
@@ -64,6 +65,7 @@
 @@*/wp-content/plugins/woocommerce/assets/js/*$script
 @@*/wp-content/plugins/wooshopatron/js/*$script
 @@*/wp-content/plugins/wp-ajax-edit-comments/js/*$script
+@@*/wp-content/plugins/wp-compress-image-optimizer/assets/js/*$script
 @@*/wp-content/plugins/wp-dark-mode/assets/js/*$script
 @@*/wp-content/plugins/wp-mega-menu-pro/js/*$script
 @@*/wp-content/plugins/wp-polls/*$script

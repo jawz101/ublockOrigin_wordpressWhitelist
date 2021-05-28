@@ -16,6 +16,7 @@
 @@*/wp-content/plugins/disqus-comment-system/public/js/*$script
 @@*/wp-content/plugins/ditty-news-ticker/inc/static/js/*$script
 @@*/wp-content/plugins/easy-accordion-free/public/assets/js/*$script
+@@*/wp-content/plugins/elementor-pro/assets/js/*$script
 @@*/wp-content/plugins/elementor/assets/js/*$script
 @@*/wp-content/plugins/elementor/assets/lib/*$script
 @@*/wp-content/plugins/enable-jquery-migrate-helper/js/jquery/*$script
@@ -23,6 +24,7 @@
 @@*/wp-content/plugins/events-calendar-pro/src/resources/js/*$script
 @@*/wp-content/plugins/ewww-image-optimizer/includes/*$script
 @@*/wp-content/plugins/fancybox-for-wordpress/fancybox/*$script
+@@*/wp-content/plugins/fusion-builder/assets/js/min/general/*$script
 @@*/wp-content/plugins/fusion-core/js/*$script
 @@*/wp-content/plugins/gdpr-framework/assets/*$script
 @@*/wp-content/plugins/gravityforms/js/*$script

@@ -47,6 +47,7 @@
 @@*/wp-content/plugins/mapplic/js/*$script
 @@*/wp-content/plugins/mistape/assets/js/*$script
 @@*/wp-content/plugins/nextend-smart-slider3-pro/*$script
+@@*/wp-content/plugins/personify-api/js/*$script
 @@*/wp-content/plugins/powerpack-elements/assets/js/*$script
 @@*/wp-content/plugins/revslider/public/assets/js/*$script
 @@*/wp-content/plugins/rocket-lazy-load/assets/js/*$script

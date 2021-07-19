@@ -1,4 +1,3 @@
-*/wp-content/plugins/*$script
 @@*/wp-content/plugins/a3-lazy-load/assets/js/*$script
 @@*/wp-content/plugins/ajax-comment-loading/js/*$script
 @@*/wp-content/plugins/ajax-search-pro/js/min/*$script
@@ -30,6 +29,7 @@
 @@*/wp-content/plugins/gravityforms/js/*$script
 @@*/wp-content/plugins/inventory/js/*$script
 @@*/wp-content/plugins/jetpack/_inc/build/lazy-images/js/*$script
+@@*/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/dist/*$script
 @@*/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/src/js/*$script
 @@*/wp-content/plugins/jquery-manager/assets/js/*$script
 @@*/wp-content/plugins/js_composer/assets/js/dist/*$script

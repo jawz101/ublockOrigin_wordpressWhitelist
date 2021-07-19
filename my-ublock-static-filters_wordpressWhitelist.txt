@@ -1,3 +1,4 @@
+*/wp-content/plugins/*$script
 @@*/wp-content/plugins/a3-lazy-load/assets/js/*$script
 @@*/wp-content/plugins/ajax-comment-loading/js/*$script
 @@*/wp-content/plugins/ajax-search-pro/js/min/*$script

@@ -19,6 +19,7 @@
 @@*/wp-content/plugins/elementor-pro/assets/js/*$script
 @@*/wp-content/plugins/elementor/assets/js/*$script
 @@*/wp-content/plugins/elementor/assets/lib/*$script
+@@*/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/*$script
 @@*/wp-content/plugins/enable-jquery-migrate-helper/js/jquery/*$script
 @@*/wp-content/plugins/essential-grid/public/assets/js/*$script
 @@*/wp-content/plugins/events-calendar-pro/src/resources/js/*$script

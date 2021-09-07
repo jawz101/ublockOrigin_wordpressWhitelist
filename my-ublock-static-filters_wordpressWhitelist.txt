@@ -48,9 +48,12 @@
 @@*/wp-content/plugins/loftloader-pro/assets/js/*$script
 @@*/wp-content/plugins/mapplic/js/*$script
 @@*/wp-content/plugins/mistape/assets/js/*$script
+@@*/wp-content/plugins/ml-slider/assets/sliders/flexslider/*$script
 @@*/wp-content/plugins/nextend-smart-slider3-pro/*$script
+@@*/wp-content/plugins/page-loader/*$script
 @@*/wp-content/plugins/personify-api/js/*$script
 @@*/wp-content/plugins/powerpack-elements/assets/js/*$script
+@@*/wp-content/plugins/preloader-plus-premium//assets/js/*$script
 @@*/wp-content/plugins/revslider/public/assets/js/*$script
 @@*/wp-content/plugins/rocket-lazy-load/assets/js/*$script
 @@*/wp-content/plugins/search-by-algolia-instant-relevant-results/js/*$script

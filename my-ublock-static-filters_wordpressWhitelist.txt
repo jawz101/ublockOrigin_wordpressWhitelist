@@ -31,6 +31,7 @@
 @@*/wp-content/plugins/fusion-core/js/*$script
 @@*/wp-content/plugins/gdpr-framework/assets/*$script
 @@*/wp-content/plugins/gravityforms/js/*$script
+@@*/wp-content/plugins/interactive-geo-maps/assets/map-service/*$script
 @@*/wp-content/plugins/inventory/js/*$script
 @@*/wp-content/plugins/jetpack/_inc/build/lazy-images/js/*$script
 @@*/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/dist/*$script
@@ -89,3 +90,4 @@
 @@*/wp-content/plugins/wp-youtube-lyte/lyte/*$script
 @@*/wp-content/plugins/wpdatatables/assets/js/*$script
 @@*/wp-content/plugins/yith-woocommerce-ajax-search-premium/assets/js/*$script
+@@*/wp-content/plugins/ymm-search/view/frontend/web/*$script

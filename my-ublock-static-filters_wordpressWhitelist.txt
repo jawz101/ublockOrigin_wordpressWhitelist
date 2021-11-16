@@ -44,6 +44,7 @@
 @@*/wp-content/plugins/kadence-slider/js/min/*$script
 @@*/wp-content/plugins/kadence-woo-extras/lib/gallery/js/*$script
 @@*/wp-content/plugins/kboard/template/js/*$script
+@@*/wp-content/plugins/keystone-images/assets/js/*$script
 @@*/wp-content/plugins/kingcomposer/assets/frontend/js/*$script
 @@*/wp-content/plugins/layerSlider/assets/static/layerslider/js/*$script
 @@*/wp-content/plugins/lazy-load-0.7/js/*$script

@@ -29,3 +29,5 @@ https://github.com/jawz101/ublockOrigin_wordpressWhitelist/wiki
 A source list of many of the WP plugins out there
 
 http://plugins.svn.wordpress.org/
+
+... so if there are at least 97,000 Wordpress plugins out there, do you really need to load the 97,000 other plugins that you never notice breaking anything?  They're probably doing nothing for you the user and, in the least, reduces attack surface.

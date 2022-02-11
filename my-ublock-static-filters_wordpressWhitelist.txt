@@ -1,5 +1,6 @@
 */wp-content/plugins/*$script
 @@*/wp-content/plugins/a3-lazy-load/assets/js/*$script
+@@*/wp-content/plugins/accordion-pro/assets/js/*$script
 @@*/wp-content/plugins/ajax-comment-loading/js/*$script
 @@*/wp-content/plugins/ajax-search-pro/js/min/*$script
 @@*/wp-content/plugins/alidswoo/assets/js/front/*$script
@@ -37,6 +38,7 @@
 @@*/wp-content/plugins/inventory/js/*$script
 @@*/wp-content/plugins/jet-elements/assets/js/*$script
 @@*/wp-content/plugins/jetpack/_inc/build/lazy-images/js/*$script
+@@*/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/*$script
 @@*/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/dist/*$script
 @@*/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/src/js/*$script
 @@*/wp-content/plugins/jquery-manager/assets/js/*$script
@@ -56,11 +58,13 @@
 @@*/wp-content/plugins/loftloader-pro/assets/js/*$script
 @@*/wp-content/plugins/make-column-clickable-elementor/assets/js/*$script
 @@*/wp-content/plugins/mapplic/js/*$script
+@@*/wp-content/plugins/megamenu/js/*$script
 @@*/wp-content/plugins/mistape/assets/js/*$script
 @@*/wp-content/plugins/ml-slider/assets/sliders/flexslider/*$script
 @@*/wp-content/plugins/nextend-smart-slider3-pro/*$script
 @@*/wp-content/plugins/page-loader/*$script
 @@*/wp-content/plugins/personify-api/js/*$script
+@@*/wp-content/plugins/post-carousel-pro/public/assets/js/*$script
 @@*/wp-content/plugins/powerpack-elements/assets/js/*$script
 @@*/wp-content/plugins/preloader-plus-premium//assets/js/*$script
 @@*/wp-content/plugins/revslider/public/assets/js/*$script
@@ -68,6 +72,7 @@
 @@*/wp-content/plugins/salient-portfolio/js/third-party/*$script
 @@*/wp-content/plugins/search-by-algolia-instant-relevant-results/js/*$script
 @@*/wp-content/plugins/sg-cachepress/assets/js/*$script
+@@*/wp-content/plugins/shortcodes-ultimate/includes/js/shortcodes/*$script
 @@*/wp-content/plugins/slideshow-jquery-image-gallery/js/min/*$script
 @@*/wp-content/plugins/speed-booster-pack/public/js/*$script
 @@*/wp-content/plugins/td-cloud-library/assets/js/*$script

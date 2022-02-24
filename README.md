@@ -3,14 +3,7 @@ static filters to tame wordpress plugins
 
 https://raw.githubusercontent.com/jawz101/ublockOrigin_wordpressWhitelist/master/my-ublock-static-filters_wordpressWhitelist.txt
 
-According to [some stats, Wordpress is used on approximately 35% of websites on the Internet](https://kinsta.com/wordpress-market-share/).  I noticed a lot of 1st party content getting through your typical uBlock Origin filter lists that pertained to Wordpress Plugins.  Many of these served basic site functionality while many others were just revenue plugins and social sharing bloat.  Rather than pick what to block I made a filter to block all scripts from the /wp-content/plugins/ folder and whitelist those I encounter that fix basic site breakage.
-
-My test:
-copy the contents of this file into your MyFilters section (or import it).  Now, open the uBlock log screen and navigate to androidpolice.com (or any site heavy with wordpress plugins.
-You will see very few allowed but several analytic plugin scripts blocked.  I don't know whether or not there is a performance penalty for these sorts of rules but it's just me seeing how much I will need to touch it.  Over the course of a couple of years I have had to add 24 exceptions so far but a cursory google search tells me there are thousands of plugins it is blocking.
-
-
-I may be onto something
+According to [some stats, Wordpress is used on approximately 35% of websites on the Internet](https://kinsta.com/wordpress-market-share/).  I noticed a lot of 3rd party code is allowed as it is installed 1st party as a plugin.  Many of these served basic site functionality while many others were just revenue plugins and social sharing bloat.  Rather than pick what to block, this filter blocks all scripts from the /wp-content/plugins/ folder and whitelists those that fix basic site breakage.
 
 [65 WordPress Plugins That Slow Down Your Website (And How To Use GTmetrix To Find Your Slowest Loading Plugins)](https://onlinemediamasters.com/slow-wordpress-plugins/)
 
@@ -29,5 +22,3 @@ https://github.com/jawz101/ublockOrigin_wordpressWhitelist/wiki
 A source list of many of the WP plugins out there
 
 http://plugins.svn.wordpress.org/
-
-... so if there are at least 97,000 Wordpress plugins out there, do you really need to load the 97,000 other plugins that you never notice breaking anything?  They're probably doing nothing for you the user and, in the least, reduces attack surface.

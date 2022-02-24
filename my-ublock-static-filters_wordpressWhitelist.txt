@@ -58,6 +58,7 @@
 @@*/wp-content/plugins/loftloader-pro/assets/js/*$script
 @@*/wp-content/plugins/make-column-clickable-elementor/assets/js/*$script
 @@*/wp-content/plugins/mapplic/js/*$script
+@@*/wp-content/plugins/media-ace/includes/lazy-load/assets/js/lazysizes/*$script
 @@*/wp-content/plugins/megamenu/js/*$script
 @@*/wp-content/plugins/mistape/assets/js/*$script
 @@*/wp-content/plugins/ml-slider/assets/sliders/flexslider/*$script
@@ -74,6 +75,10 @@
 @@*/wp-content/plugins/sg-cachepress/assets/js/*$script
 @@*/wp-content/plugins/shortcodes-ultimate/includes/js/shortcodes/*$script
 @@*/wp-content/plugins/slideshow-jquery-image-gallery/js/min/*$script
+@@*/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/*$script
+@@*/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/*$script
+@@*/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/*$script
+@@*/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Bullet/Assets/dist/*$script
 @@*/wp-content/plugins/speed-booster-pack/public/js/*$script
 @@*/wp-content/plugins/td-cloud-library/assets/js/*$script
 @@*/wp-content/plugins/td-composer/legacy/Newspaper/js/*$script

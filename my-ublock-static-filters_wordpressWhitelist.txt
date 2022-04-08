@@ -33,6 +33,7 @@
 @@*/wp-content/plugins/fusion-builder/assets/js/min/general/*$script
 @@*/wp-content/plugins/fusion-core/js/*$script
 @@*/wp-content/plugins/gdpr-framework/assets/*$script
+@@*/wp-content/plugins/gp-premium/blog/functions/js/*$script
 @@*/wp-content/plugins/gravityforms/js/*$script
 @@*/wp-content/plugins/interactive-geo-maps/assets/map-service/*$script
 @@*/wp-content/plugins/inventory/js/*$script
@@ -68,6 +69,7 @@
 @@*/wp-content/plugins/post-carousel-pro/public/assets/js/*$script
 @@*/wp-content/plugins/powerpack-elements/assets/js/*$script
 @@*/wp-content/plugins/preloader-plus-premium//assets/js/*$script
+@@*/wp-content/plugins/pt-content-views-pro/public/assets/js/*$script
 @@*/wp-content/plugins/revslider/public/assets/js/*$script
 @@*/wp-content/plugins/rocket-lazy-load/assets/js/*$script
 @@*/wp-content/plugins/salient-portfolio/js/third-party/*$script
@@ -106,4 +108,3 @@
 @@*/wp-content/plugins/wpdatatables/assets/js/*$script
 @@*/wp-content/plugins/yith-woocommerce-ajax-search-premium/assets/js/*$script
 @@*/wp-content/plugins/ymm-search/view/frontend/web/*$script
-||*/wp-content/client-mu-plugins/idg-third-party/dist/scripts/*$script

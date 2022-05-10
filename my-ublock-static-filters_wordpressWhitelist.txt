@@ -5,6 +5,7 @@
 @@*/wp-content/plugins/ajax-search-pro/js/min/*$script
 @@*/wp-content/plugins/alidswoo/assets/js/front/*$script
 @@*/wp-content/plugins/autoptimize/classes/external/js/*$script
+@@*/wp-content/plugins/autoptimize_old/classes/external/js/*$script
 @@*/wp-content/plugins/bb-plugin/js/*$script
 @@*/wp-content/plugins/bb-ultimate-addon/assets/js/global-scripts/*$script
 @@*/wp-content/plugins/bbs-e-popup/js/*$script
@@ -13,6 +14,7 @@
 @@*/wp-content/plugins/bwp-minify/min/*$script
 @@*/wp-content/plugins/cm-cdn-image-handler/public/js/*$script
 @@*/wp-content/plugins/contact-form-7/includes/js/*$script
+@@*/wp-content/plugins/cornerstone/assets/dist/js/site/*$script
 @@*/wp-content/plugins/dflip/assets/js/*$script
 @@*/wp-content/plugins/di-fixed-ops/*$script
 @@*/wp-content/plugins/disqus-comment-system/public/js/*$script
@@ -25,6 +27,7 @@
 @@*/wp-content/plugins/elementor/assets/lib/*$script
 @@*/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/*$script
 @@*/wp-content/plugins/enable-jquery-migrate-helper/js/jquery/*$script
+@@*/wp-content/plugins/envira-gallery/assets/js/min/*$script
 @@*/wp-content/plugins/essential-grid/public/assets/js/*$script
 @@*/wp-content/plugins/events-calendar-pro/src/resources/js/*$script
 @@*/wp-content/plugins/ewww-image-optimizer/includes/*$script
@@ -65,6 +68,7 @@
 @@*/wp-content/plugins/ml-slider/assets/sliders/flexslider/*$script
 @@*/wp-content/plugins/nextend-smart-slider3-pro/*$script
 @@*/wp-content/plugins/page-loader/*$script
+@@*/wp-content/plugins/perfmatters/js/*$script
 @@*/wp-content/plugins/personify-api/js/*$script
 @@*/wp-content/plugins/post-carousel-pro/public/assets/js/*$script
 @@*/wp-content/plugins/powerpack-elements/assets/js/*$script
@@ -76,6 +80,7 @@
 @@*/wp-content/plugins/search-by-algolia-instant-relevant-results/js/*$script
 @@*/wp-content/plugins/sg-cachepress/assets/js/*$script
 @@*/wp-content/plugins/shortcodes-ultimate/includes/js/shortcodes/*$script
+@@*/wp-content/plugins/shortpixel-adaptive-images/assets/js/*$script
 @@*/wp-content/plugins/slideshow-jquery-image-gallery/js/min/*$script
 @@*/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/*$script
 @@*/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/*$script

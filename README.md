@@ -13,6 +13,8 @@ According to [some stats, Wordpress is used on approximately 35% of websites on 
 
 [Use This Test to Find Out Which Plugins are Slowing Down Your WordPress Site](https://premium.wpmudev.org/blog/use-this-test-to-find-out-which-plugins-are-slowing-down-your-wordpress-site/)
 
+... There are even plugins a website can install to assess the security and slowness of other plugins they've installed.  It's silly
+
 -----------------------
 Steps to fix breakages:
 

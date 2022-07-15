@@ -19,6 +19,8 @@ Steps to fix breakages:
 https://github.com/jawz101/ublockOrigin_wordpressWhitelist/wiki
 
 
-A source list of many of the WP plugins out there
+A source list of many of the WP plugins out there:
 
 http://plugins.svn.wordpress.org/
+
+Essentially this blocks 96,000+ plugins and only allow 120 or so that sites use to make menus, add map widgets, etc.  Wordpress plugins are also a target for a lot of vulnerabilites so you're just eliminating the problem by blocking all of them and only letting the minimum amount through.

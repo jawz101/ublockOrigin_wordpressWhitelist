@@ -82,6 +82,7 @@
 @@*/wp-content/plugins/pt-content-views-pro/public/assets/js/*$script
 @@*/wp-content/plugins/revslider/public/assets/js/*$script
 @@*/wp-content/plugins/rocket-lazy-load/assets/js/*$script
+@@*/wp-content/plugins/salient-portfolio/js/*$script
 @@*/wp-content/plugins/salient-portfolio/js/third-party/*$script
 @@*/wp-content/plugins/search-by-algolia-instant-relevant-results/js/*$script
 @@*/wp-content/plugins/sg-cachepress/assets/js/*$script
@@ -103,6 +104,7 @@
 @@*/wp-content/plugins/wd_shortcode/js/*$script
 @@*/wp-content/plugins/woo-gutenberg-products-block/build/*$script
 @@*/wp-content/plugins/woocommerce-composite-products/assets/js/frontend/*$script
+@@*/wp-content/plugins/woocommerce-currency-switcher/js/*$script
 @@*/wp-content/plugins/woocommerce/assets/js/*$script
 @@*/wp-content/plugins/wooshopatron/js/*$script
 @@*/wp-content/plugins/wp-ajax-edit-comments/js/*$script
@@ -117,5 +119,6 @@
 @@*/wp-content/plugins/wp-smushit/app/assets/js/*$script
 @@*/wp-content/plugins/wp-youtube-lyte/lyte/*$script
 @@*/wp-content/plugins/wpdatatables/assets/js/*$script
+@@*/wp-content/plugins/xmenu/assets/js/*$script
 @@*/wp-content/plugins/yith-woocommerce-ajax-search-premium/assets/js/*$script
 @@*/wp-content/plugins/ymm-search/view/frontend/web/*$script

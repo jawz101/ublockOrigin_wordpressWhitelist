@@ -38,6 +38,7 @@
 @@*/wp-content/plugins/fluentform/app/Services/FluentConversational/public/js/*$script
 @@*/wp-content/plugins/fusion-builder/assets/js/min/general/*$script
 @@*/wp-content/plugins/fusion-core/js/*$script
+@@*/wp-content/plugins/fwdu3dcar/js/*$script
 @@*/wp-content/plugins/gdpr-framework/assets/*$script
 @@*/wp-content/plugins/gp-premium/blog/functions/js/*$script
 @@*/wp-content/plugins/gravityforms/js/*$script
@@ -51,6 +52,7 @@
 @@*/wp-content/plugins/jquery-manager/assets/js/*$script
 @@*/wp-content/plugins/js_composer/assets/js/dist/*$script
 @@*/wp-content/plugins/js_composer/assets/lib/bower/flexslider/*$script
+@@*/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/*$script
 @@*/wp-content/plugins/js_composer/assets/lib/vc_waypoints/*$script
 @@*/wp-content/plugins/jupiter-donut/assets/js/*$script
 @@*/wp-content/plugins/kadence-slider/js/min/*$script
@@ -77,6 +79,7 @@
 @@*/wp-content/plugins/page-loader/*$script
 @@*/wp-content/plugins/perfmatters/js/*$script
 @@*/wp-content/plugins/personify-api/js/*$script
+@@*/wp-content/plugins/pmc-plugins/pmc-gallery-v4/assets/build/js/*$script
 @@*/wp-content/plugins/post-carousel-pro/public/assets/js/*$script
 @@*/wp-content/plugins/powerpack-elements/assets/js/*$script
 @@*/wp-content/plugins/preloader-plus-premium//assets/js/*$script

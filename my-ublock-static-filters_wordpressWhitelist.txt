@@ -18,12 +18,14 @@
 @@*/wp-content/plugins/cornerstone/assets/dist/js/site/*$script
 @@*/wp-content/plugins/cws-jquery-updater/js/*$script
 @@*/wp-content/plugins/cws/js/*$script
+@@*/wp-content/plugins/dealerinspire-inventory-display/src/VRP/dist/*$script
 @@*/wp-content/plugins/dflip/assets/js/*$script
 @@*/wp-content/plugins/di-fixed-ops/*$script
 @@*/wp-content/plugins/disqus-comment-system/public/js/*$script
 @@*/wp-content/plugins/ditty-news-ticker/inc/static/js/*$script
 @@*/wp-content/plugins/easy-accordion-free/public/assets/js/*$script
 @@*/wp-content/plugins/elementor-pro/assets/js/*$script
+@@*/wp-content/plugins/elementor-pro/assets/lib/lottie/*$script
 @@*/wp-content/plugins/elementor-pro/assets/lib/smartmenus/*$script
 @@*/wp-content/plugins/elementor-pro/assets/lib/sticky/*$script
 @@*/wp-content/plugins/elementor/assets/js/*$script
@@ -42,6 +44,7 @@
 @@*/wp-content/plugins/gdpr-framework/assets/*$script
 @@*/wp-content/plugins/gp-premium/blog/functions/js/*$script
 @@*/wp-content/plugins/gravityforms/js/*$script
+@@*/wp-content/plugins/happy-elementor-addons/assets/js/*$script
 @@*/wp-content/plugins/interactive-geo-maps/assets/map-service/*$script
 @@*/wp-content/plugins/inventory/js/*$script
 @@*/wp-content/plugins/jet-elements/assets/js/*$script
@@ -83,6 +86,7 @@
 @@*/wp-content/plugins/post-carousel-pro/public/assets/js/*$script
 @@*/wp-content/plugins/powerpack-elements/assets/js/*$script
 @@*/wp-content/plugins/preloader-plus-premium//assets/js/*$script
+@@*/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/*$script
 @@*/wp-content/plugins/pt-content-views-pro/public/assets/js/*$script
 @@*/wp-content/plugins/revslider/public/assets/js/*$script
 @@*/wp-content/plugins/rocket-lazy-load/assets/js/*$script

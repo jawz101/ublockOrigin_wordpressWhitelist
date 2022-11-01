@@ -3,7 +3,7 @@ static filters to tame wordpress plugins
 
 https://raw.githubusercontent.com/jawz101/ublockOrigin_wordpressWhitelist/master/my-ublock-static-filters_wordpressWhitelist.txt
 
-According to [some stats, Wordpress is used on approximately 35% of websites on the Internet](https://kinsta.com/wordpress-market-share/).  I noticed a lot of 3rd party code is allowed as it is installed 1st party as a plugin.  Many of these served basic site functionality while many others were just revenue plugins and social sharing bloat.  Rather than pick what to block, this filter blocks all scripts from the /wp-content/plugins/ folder and whitelists those that fix basic site breakage.
+According to [some stats, Wordpress is used on approximately 35% of websites on the Internet](https://kinsta.com/wordpress-market-share/).  I noticed a lot of 3rd party code is allowed as it is installed 1st party as a plugin.  Many of these served basic site functionality while many others were just revenue plugins and social sharing bloat.  Rather than pick what to block, this filter blocks all scripts from the /wp-content/plugins/ folder and whitelists those that fix basic site breakage as I encounter them.
 
 [65 WordPress Plugins That Slow Down Your Website (And How To Use GTmetrix To Find Your Slowest Loading Plugins)](https://onlinemediamasters.com/slow-wordpress-plugins/)
 

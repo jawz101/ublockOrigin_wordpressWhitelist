@@ -96,6 +96,7 @@
 @@*/wp-content/plugins/sg-cachepress/assets/js/*$script
 @@*/wp-content/plugins/shortcodes-ultimate/includes/js/shortcodes/*$script
 @@*/wp-content/plugins/shortpixel-adaptive-images/assets/js/*$script
+@@*/wp-content/plugins/slider-revolution/public/assets/js/*$script
 @@*/wp-content/plugins/slideshow-jquery-image-gallery/js/min/*$script
 @@*/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/*$script
 @@*/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/*$script

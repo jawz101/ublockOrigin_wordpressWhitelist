@@ -47,7 +47,10 @@
 @@*/wp-content/plugins/happy-elementor-addons/assets/js/*$script
 @@*/wp-content/plugins/interactive-geo-maps/assets/map-service/*$script
 @@*/wp-content/plugins/inventory/js/*$script
+@@*/wp-content/plugins/jet-blog/assets/js/lib/slick/*$script
 @@*/wp-content/plugins/jet-elements/assets/js/*$script
+@@*/wp-content/plugins/jet-menu/assets/public/js/legacy/*$script
+@@*/wp-content/plugins/jet-menu/includes/elementor/assets/public/js/legacy/*$script
 @@*/wp-content/plugins/jetpack/_inc/build/lazy-images/js/*$script
 @@*/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/*$script
 @@*/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/dist/*$script
@@ -113,6 +116,7 @@
 @@*/wp-content/plugins/w3-total-cache/pub/js/*$script
 @@*/wp-content/plugins/wd_shortcode/js/*$script
 @@*/wp-content/plugins/woo-gutenberg-products-block/build/*$script
+@@*/wp-content/plugins/woo-variation-swatches/assets/js/*$script
 @@*/wp-content/plugins/woocommerce-composite-products/assets/js/frontend/*$script
 @@*/wp-content/plugins/woocommerce-currency-switcher/js/*$script
 @@*/wp-content/plugins/woocommerce-product-table/assets/js/*$script

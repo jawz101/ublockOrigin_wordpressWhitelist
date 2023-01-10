@@ -119,6 +119,7 @@
 @@*/wp-content/plugins/woo-variation-swatches/assets/js/*$script
 @@*/wp-content/plugins/woocommerce-composite-products/assets/js/frontend/*$script
 @@*/wp-content/plugins/woocommerce-currency-switcher/js/*$script
+@@*/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/*$script
 @@*/wp-content/plugins/woocommerce-product-table/assets/js/*$script
 @@*/wp-content/plugins/woocommerce/assets/js/*$script
 @@*/wp-content/plugins/wooshopatron/js/*$script

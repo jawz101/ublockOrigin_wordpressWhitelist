@@ -14,6 +14,7 @@
 @@*/wp-content/plugins/bwp-minify/min/*$script
 @@*/wp-content/plugins/calculated-fields-form/js/*$script
 @@*/wp-content/plugins/cm-cdn-image-handler/public/js/*$script
+@@*/wp-content/plugins/colibri-page-builder-pro/extend-builder/assets/static/*$script
 @@*/wp-content/plugins/contact-form-7/includes/js/*$script
 @@*/wp-content/plugins/cornerstone/assets/dist/js/site/*$script
 @@*/wp-content/plugins/cws-jquery-updater/js/*$script

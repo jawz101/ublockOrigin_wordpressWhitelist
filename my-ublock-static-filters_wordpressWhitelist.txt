@@ -52,6 +52,7 @@
 @@*/wp-content/plugins/jet-elements/assets/js/*$script
 @@*/wp-content/plugins/jet-menu/assets/public/js/legacy/*$script
 @@*/wp-content/plugins/jet-menu/includes/elementor/assets/public/js/legacy/*$script
+@@*/wp-content/plugins/jetpack-boost/jetpack_vendor/automattic/jetpack-lazy-images/dist/*$script
 @@*/wp-content/plugins/jetpack/_inc/build/lazy-images/js/*$script
 @@*/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/*$script
 @@*/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/dist/*$script

@@ -3,7 +3,7 @@ static filters to tame wordpress plugins
 
 https://raw.githubusercontent.com/jawz101/ublockOrigin_wordpressWhitelist/master/my-ublock-static-filters_wordpressWhitelist.txt
 
-According to [some stats, Wordpress is used on approximately 35% of websites on the Internet](https://kinsta.com/wordpress-market-share/).  I noticed a lot of 3rd party code is allowed as it is installed 1st party as a plugin.  Many of these served basic site functionality while many others were just revenue plugins and social sharing bloat.  Rather than pick what to block, this filter blocks all scripts from the /wp-content/plugins/ folder and whitelists those that fix basic site breakage as I encounter them.
+According to [some stats, Wordpress is used on approximately 43% of websites on the Internet](https://kinsta.com/wordpress-market-share/).  I noticed a lot of 3rd party code is allowed as it is installed 1st party as a plugin.  Few plugins serve basic site functionality and many others are just monetization, marketing, and social sharing bloat.  Rather than pick what to block, this filter blocks all scripts from the /wp-content/plugins/ folder and whitelists those that fix basic site breakage as I encounter them.
 
 [65 WordPress Plugins That Slow Down Your Website (And How To Use GTmetrix To Find Your Slowest Loading Plugins)](https://onlinemediamasters.com/slow-wordpress-plugins/)
 
@@ -13,7 +13,7 @@ According to [some stats, Wordpress is used on approximately 35% of websites on 
 
 [Use This Test to Find Out Which Plugins are Slowing Down Your WordPress Site](https://premium.wpmudev.org/blog/use-this-test-to-find-out-which-plugins-are-slowing-down-your-wordpress-site/)
 
-... There are even plugins a website can install to assess the security and slowness of other plugins they've installed.  It's silly
+... There are even plugins a website can install to assess the security and slowness of other plugins they've installed.  It's silly.
 
 -----------------------
 Steps to fix breakages:

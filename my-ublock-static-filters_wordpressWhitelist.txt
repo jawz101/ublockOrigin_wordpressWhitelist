@@ -95,7 +95,6 @@
 @@*/wp-content/plugins/pmc-plugins/pmc-gallery-v4/assets/build/js/*$script
 @@*/wp-content/plugins/post-carousel-pro/public/assets/js/*$script
 @@*/wp-content/plugins/powerpack-elements/assets/js/*$script
-@@*/wp-content/plugins/preloader-plus-premium//assets/js/*$script
 @@*/wp-content/plugins/preloader-plus-premium/assets/js/*$script
 @@*/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/*$script
 @@*/wp-content/plugins/pt-content-views-pro/public/assets/js/*$script

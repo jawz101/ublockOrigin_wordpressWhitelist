@@ -133,6 +133,9 @@
 @@*/wp-content/plugins/wp-ajax-edit-comments/js/*$script
 @@*/wp-content/plugins/wp-compress-image-optimizer/assets/js/*$script
 @@*/wp-content/plugins/wp-dark-mode/assets/js/*$script
+@@*/wp-content/plugins/wp-google-maps-gold/js/v8/*$script
+@@*/wp-content/plugins/wp-google-maps-pro/js/v8/*$script
+@@*/wp-content/plugins/wp-google-maps/lib/*$script
 @@*/wp-content/plugins/wp-mega-menu-pro/js/*$script
 @@*/wp-content/plugins/wp-polls/*$script
 @@*/wp-content/plugins/wp-rocket/assets/js/*$script

@@ -1,6 +1,7 @@
 */wp-content/plugins/*$script
 @@*/wp-content/plugins/a3-lazy-load/assets/js/*$script
 @@*/wp-content/plugins/accordion-pro/assets/js/*$script
+@@*/wp-content/plugins/address-autocomplete/assets/js/*$script
 @@*/wp-content/plugins/afterpay-gateway-for-woocommerce/build/*$script
 @@*/wp-content/plugins/ajax-comment-loading/js/*$script
 @@*/wp-content/plugins/ajax-load-more/core/dist/js/*$script
@@ -66,6 +67,7 @@
 @@*/wp-content/plugins/js_composer/assets/js/dist/*$script
 @@*/wp-content/plugins/js_composer/assets/lib/bower/flexslider/*$script
 @@*/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/*$script
+@@*/wp-content/plugins/js_composer/assets/lib/vc_accordion/*$script
 @@*/wp-content/plugins/js_composer/assets/lib/vc_waypoints/*$script
 @@*/wp-content/plugins/jupiter-donut/assets/js/*$script
 @@*/wp-content/plugins/kadence-slider/js/min/*$script
@@ -128,12 +130,13 @@
 @@*/wp-content/plugins/woo-gutenberg-products-block/build/*$script
 @@*/wp-content/plugins/woo-variation-gallery/assets/js/*$script
 @@*/wp-content/plugins/woo-variation-swatches/assets/js/*$script
+@@*/wp-content/plugins/woocommerce-buying-guide/public/js/*$script
 @@*/wp-content/plugins/woocommerce-composite-products/assets/js/frontend/*$script
 @@*/wp-content/plugins/woocommerce-currency-switcher/js/*$script
-@@*/wp-content/plugins/woocommerce-gateway-stripe/assets/js/*$script
 @@*/wp-content/plugins/woocommerce-gateway-stripe/build/*$script
 @@*/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/*$script
 @@*/wp-content/plugins/woocommerce-product-table/assets/js/*$script
+@@*/wp-content/plugins/woocommerce-products-compare/assets/js/*$script
 @@*/wp-content/plugins/woocommerce/assets/js/*$script
 @@*/wp-content/plugins/wooshopatron/js/*$script
 @@*/wp-content/plugins/wp-ajax-edit-comments/js/*$script

@@ -133,6 +133,7 @@
 @@*/wp-content/plugins/woocommerce-buying-guide/public/js/*$script
 @@*/wp-content/plugins/woocommerce-composite-products/assets/js/frontend/*$script
 @@*/wp-content/plugins/woocommerce-currency-switcher/js/*$script
+@@*/wp-content/plugins/woocommerce-gateway-stripe/assets/js/*$script
 @@*/wp-content/plugins/woocommerce-gateway-stripe/build/*$script
 @@*/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/*$script
 @@*/wp-content/plugins/woocommerce-product-table/assets/js/*$script

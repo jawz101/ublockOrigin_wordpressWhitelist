@@ -105,6 +105,7 @@
 @@*/wp-content/plugins/pt-content-views-pro/public/assets/js/*$script
 @@*/wp-content/plugins/revslider/public/assets/js/*$script
 @@*/wp-content/plugins/rocket-lazy-load/assets/js/*$script
+@@*/wp-content/plugins/routeapp/public/js/*$script
 @@*/wp-content/plugins/salient-portfolio/js/*$script
 @@*/wp-content/plugins/salient-portfolio/js/third-party/*$script
 @@*/wp-content/plugins/search-by-algolia-instant-relevant-results/js/*$script

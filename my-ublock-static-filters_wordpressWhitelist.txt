@@ -83,6 +83,7 @@
 @@*/wp-content/plugins/lazy-load/js/*$script
 @@*/wp-content/plugins/lazysizes/js/build/*$script
 @@*/wp-content/plugins/loftloader-pro/assets/js/*$script
+@@*/wp-content/plugins/loftloader/assets/js/*$script
 @@*/wp-content/plugins/make-column-clickable-elementor/assets/js/*$script
 @@*/wp-content/plugins/mapplic/js/*$script
 @@*/wp-content/plugins/media-ace/includes/lazy-load/assets/js/lazysizes/*$script

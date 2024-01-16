@@ -44,6 +44,7 @@
 @@*/wp-content/plugins/ewww-image-optimizer/includes/*$script
 @@*/wp-content/plugins/fancybox-for-wordpress/fancybox/*$script
 @@*/wp-content/plugins/fluentform/app/Services/FluentConversational/public/js/*$script
+@@*/wp-content/plugins/foogallery/extensions/default-templates/shared/js/*$script
 @@*/wp-content/plugins/fusion-builder/assets/js/min/general/*$script
 @@*/wp-content/plugins/fusion-core/js/*$script
 @@*/wp-content/plugins/fwdu3dcar/js/*$script

@@ -162,3 +162,4 @@
 @@*/wp-content/plugins/xmenu/assets/js/*$script
 @@*/wp-content/plugins/yith-woocommerce-ajax-search-premium/assets/js/*$script
 @@*/wp-content/plugins/ymm-search/view/frontend/web/*$script
+@@*/wp-content/plugins/youtube-embed-plus-pro/scripts/*$script

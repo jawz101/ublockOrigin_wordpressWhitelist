@@ -24,6 +24,7 @@
 @@*/wp-content/plugins/country-phone-field-contact-form-7/assets/js/*$script
 @@*/wp-content/plugins/cws-jquery-updater/js/*$script
 @@*/wp-content/plugins/cws/js/*$script
+@@*/wp-content/plugins/dealerinspire-assets/src/Assets/DIModal/*$script
 @@*/wp-content/plugins/dealerinspire-inventory-display/src/VRP/dist/*$script
 @@*/wp-content/plugins/dflip/assets/js/*$script
 @@*/wp-content/plugins/di-fixed-ops/*$script
@@ -105,6 +106,7 @@
 @@*/wp-content/plugins/preloader-plus-premium//assets/js/*$script
 @@*/wp-content/plugins/preloader-plus-premium/assets/js/*$script
 @@*/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/*$script
+@@*/wp-content/plugins/presto-player/dist/components/web-components/*$script
 @@*/wp-content/plugins/pt-content-views-pro/public/assets/js/*$script
 @@*/wp-content/plugins/revslider/public/assets/js/*$script
 @@*/wp-content/plugins/rocket-lazy-load/assets/js/*$script

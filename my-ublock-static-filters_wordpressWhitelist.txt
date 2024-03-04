@@ -161,6 +161,7 @@
 @@*/wp-content/plugins/wp-smushit/app/assets/js/*$script
 @@*/wp-content/plugins/wp-youtube-lyte/lyte/*$script
 @@*/wp-content/plugins/wpdatatables/assets/js/*$script
+@@*/wp-content/plugins/xcurrent/assets/js/*$script
 @@*/wp-content/plugins/xmenu/assets/js/*$script
 @@*/wp-content/plugins/yith-woocommerce-ajax-search-premium/assets/js/*$script
 @@*/wp-content/plugins/ymm-search/view/frontend/web/*$script

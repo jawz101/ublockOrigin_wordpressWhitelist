@@ -114,6 +114,7 @@
 @@*/wp-content/plugins/salient-portfolio/js/*$script
 @@*/wp-content/plugins/salient-portfolio/js/third-party/*$script
 @@*/wp-content/plugins/search-by-algolia-instant-relevant-results/js/*$script
+@@*/wp-content/plugins/search-filter-pro/public/assets/js/$script
 @@*/wp-content/plugins/sg-cachepress/assets/js/*$script
 @@*/wp-content/plugins/shortcodes-ultimate/includes/js/shortcodes/*$script
 @@*/wp-content/plugins/shortpixel-adaptive-images/assets/js/*$script

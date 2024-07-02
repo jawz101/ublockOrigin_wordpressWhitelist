@@ -125,11 +125,13 @@
 @@*/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/*$script
 @@*/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Bullet/Assets/dist/*$script
 @@*/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Thumbnail/Basic/Assets/dist/*$script
+@@*/wp-content/plugins/so-widgets-bundle/js/$script
 @@*/wp-content/plugins/speed-booster-pack/public/js/*$script
 @@*/wp-content/plugins/td-cloud-library/assets/js/*$script
 @@*/wp-content/plugins/td-composer/legacy/Newspaper/js/*$script
 @@*/wp-content/plugins/thrive-visual-editor/editor/js/*$script
 @@*/wp-content/plugins/twist/assets/js/*$script
+@@*/wp-content/plugins/visual-product-configurator-multiple-views-addon/public/js/$script
 @@*/wp-content/plugins/visual-product-configurator/public/js/*$script
 @@*/wp-content/plugins/visual-product-configurator/public/libs/oriontip/*$script
 @@*/wp-content/plugins/w3-total-cache/pub/js/*$script
@@ -143,6 +145,7 @@
 @@*/wp-content/plugins/woocommerce-gateway-stripe/assets/js/*$script
 @@*/wp-content/plugins/woocommerce-gateway-stripe/build/*$script
 @@*/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/*$script
+@@*/wp-content/plugins/woocommerce-product-addons/assets/js/$script
 @@*/wp-content/plugins/woocommerce-product-table/assets/js/*$script
 @@*/wp-content/plugins/woocommerce-products-compare/assets/js/*$script
 @@*/wp-content/plugins/woocommerce/assets/js/*$script

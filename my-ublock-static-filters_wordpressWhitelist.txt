@@ -79,6 +79,7 @@
 @@*/wp-content/plugins/kingcomposer/assets/frontend/js/*$script
 @@*/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/*$script
 @@*/wp-content/plugins/layerSlider/assets/static/layerslider/js/*$script
+@@*/wp-content/plugins/lazy-load-0.7/assets/build/$script
 @@*/wp-content/plugins/lazy-load-0.7/js/*$script
 @@*/wp-content/plugins/lazy-load-for-videos/assets/js/*$script
 @@*/wp-content/plugins/lazy-load-for-videos/public/js/*$script

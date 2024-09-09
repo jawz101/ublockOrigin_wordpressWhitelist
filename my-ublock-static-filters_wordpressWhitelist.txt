@@ -114,6 +114,7 @@
 @@*/wp-content/plugins/routeapp/public/js/*$script
 @@*/wp-content/plugins/salient-portfolio/js/*$script
 @@*/wp-content/plugins/salient-portfolio/js/third-party/*$script
+@@*/wp-content/plugins/sass-generator/includes/bootstrap/js/$script
 @@*/wp-content/plugins/search-by-algolia-instant-relevant-results/js/*$script
 @@*/wp-content/plugins/search-filter-pro/public/assets/js/$script
 @@*/wp-content/plugins/sg-cachepress/assets/js/*$script

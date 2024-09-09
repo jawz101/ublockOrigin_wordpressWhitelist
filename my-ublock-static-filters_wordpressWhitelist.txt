@@ -98,6 +98,8 @@
 @@*/wp-content/plugins/mpc-massive/assets/js/*$script
 @@*/wp-content/plugins/nextend-smart-slider3-pro/*$script
 @@*/wp-content/plugins/osm/js/*$script
+@@*/wp-content/plugins/page-builder/assets/js/dist/$script
+@@*/wp-content/plugins/page-builder/assets/lib/vc_waypoints/$script
 @@*/wp-content/plugins/page-loader/*$script
 @@*/wp-content/plugins/perfmatters/js/*$script
 @@*/wp-content/plugins/personify-api/js/*$script

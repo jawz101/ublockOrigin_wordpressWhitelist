@@ -101,6 +101,8 @@
 @@*/wp-content/plugins/page-builder/assets/js/dist/$script
 @@*/wp-content/plugins/page-builder/assets/lib/vc_waypoints/$script
 @@*/wp-content/plugins/page-loader/*$script
+@@*/wp-content/plugins/pdfjs-viewer-shortcode/pdfjs/build/$script
+@@*/wp-content/plugins/pdfjs-viewer-shortcode/pdfjs/web/$script
 @@*/wp-content/plugins/perfmatters/js/*$script
 @@*/wp-content/plugins/personify-api/js/*$script
 @@*/wp-content/plugins/pmc-plugins/pmc-gallery-v4/assets/build/js/*$script

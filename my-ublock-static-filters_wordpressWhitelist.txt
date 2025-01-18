@@ -51,6 +51,7 @@
 @@*/wp-content/plugins/fwdu3dcar/js/*$script
 @@*/wp-content/plugins/gdpr-framework/assets/*$script
 @@*/wp-content/plugins/gp-premium/blog/functions/js/*$script
+@@*/wp-content/plugins/gp-premium/menu-plus/functions/js/$script
 @@*/wp-content/plugins/gravityforms/js/*$script
 @@*/wp-content/plugins/happy-elementor-addons/assets/js/*$script
 @@*/wp-content/plugins/interactive-geo-maps/assets/map-service/*$script

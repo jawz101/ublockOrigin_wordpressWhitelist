@@ -30,6 +30,7 @@
 @@*/wp-content/plugins/di-fixed-ops/*$script
 @@*/wp-content/plugins/disqus-comment-system/public/js/*$script
 @@*/wp-content/plugins/ditty-news-ticker/inc/static/js/*$script
+@@*/wp-content/plugins/download-config/assets/js/$script
 @@*/wp-content/plugins/easy-accordion-free/public/assets/js/*$script
 @@*/wp-content/plugins/elementor-pro/assets/js/*$script
 @@*/wp-content/plugins/elementor-pro/assets/lib/lottie/*$script
@@ -136,6 +137,7 @@
 @@*/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Thumbnail/Basic/Assets/dist/*$script
 @@*/wp-content/plugins/so-widgets-bundle/js/$script
 @@*/wp-content/plugins/speed-booster-pack/public/js/*$script
+@@*/wp-content/plugins/st-spruce-app/dist/$script
 @@*/wp-content/plugins/td-cloud-library/assets/js/*$script
 @@*/wp-content/plugins/td-composer/legacy/Newspaper/js/*$script
 @@*/wp-content/plugins/the-preloader/js/$script
